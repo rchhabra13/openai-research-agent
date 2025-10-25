@@ -31,8 +31,8 @@ A sophisticated multi-agent research application built with OpenAI's Agents SDK 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/rchhabra13/portfolio-projects.git
-   cd portfolio-projects/opeani_research_agent
+   git clone https://github.com/rchhabra13/opeani_research_agent.git
+   cd opeani_research_agent
    ```
 
 2. **Install dependencies**
